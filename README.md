@@ -6,6 +6,13 @@ Backbone is a system to provide the core infrastructure for the pipeline. It has
 
 On backbone, all resources are treated equally. Therefore, configurations, plugins, scripts, tools, apps (etc) are versioned & handled in the same matter.
 
+This project is devided in repos where each repo is responsible for a specific section of the core infrastructure:
+- [bbase](https://github.com/backboneHQ/bbase)
+- [bsys](https://github.com/backboneHQ/bsys)
+- [bevents](https://github.com/backboneHQ/bevents)
+- [bver](https://github.com/backboneHQ/bver)
+- [blauncher](https://github.com/backboneHQ/blauncher)
+
 ## Issues
 Backbone development discussions and bug reports are collected on [Issues](https://github.com/backboneHQ/backbone/issues)
 
