@@ -5,3 +5,16 @@
 Backbone is a system to provide the core infrastructure for the pipeline. It has been built from the ground up with scalability and multi-facility architecture in mind. On the usability side backbone provides series of abstraction layers to help developers & artists to work in an immutable environment where developers can safely develop on sandbox and artists can safely be isolated from specific releases by providing multiple deployment streams (Canary releases). 
 
 On backbone, all resources are treated equally. Therefore, configurations, plugins, scripts, tools, apps (etc) are versioned & handled in the same matter.
+
+## Issues
+Backbone development discussions and bug reports are collected on [Issues](https://github.com/backboneHQ/backbone/issues)
+
+## Contributing
+Contributions are welcome to Backbone. It can be made through many different forms depending on your level of interest:
+- Proposing features
+- Reporting issues
+- Making improvements (adding new features, improving the existing features, adding tests,
+adding testutils, clarifying wording and fixing errors)
+
+## Licensing
+Backbone is free software; you can redistribute it and/or modify it under the terms of the MIT License
